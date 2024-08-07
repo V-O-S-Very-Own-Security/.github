@@ -1,4 +1,4 @@
-🛡️ V.O.S 🛡️ <br>
+🛡️🗡️ V.O.S 🗡️🛡️ <br>
 Very Own Security is an independent organization which aims to contribute Networking and Security Applications. 
 
 We desire that one day, our products provide a free-of-cost network solution, that can rival a professional enterprise.
